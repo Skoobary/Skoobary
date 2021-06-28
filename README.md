@@ -1,4 +1,3 @@
-I am a young developper interrested in freelancing. I love problem-solving exercices and programming. 
 - 👋 Hi, I am @Skoobary
 - 👀 I’m most interested in advanced real-life problem-solving.
 - 🌱 I never stop learning.
