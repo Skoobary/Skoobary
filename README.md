@@ -1,6 +1,7 @@
 - 👋 Hi, I am @Skoobary
 - 👀 I’m most interested in advanced real-life problem-solving.
-- 🌱 I never stop learning.
+- 🌱 I never stop learning but I'm most interrested in **Data-structures and Algorithms**
+- 👨‍💻 All of my projects are available at [https://github.com/Skoobary](https://github.com/Skoobary)
 - 📫 You can reach me through my email address : aymanessalai@gmail.com
 
 <!---
