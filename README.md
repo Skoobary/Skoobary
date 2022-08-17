@@ -1,7 +1,7 @@
 - 👋 Hi, I am @Skoobary
-- 👀 I’m most interested in advanced real-life problem-solving.
-- 🌱 I never stop learning but I'm most interrested in **Data-structures and Algorithms**
+- 👀 I’m most interested in real-life problem-solving.
 - 👨‍💻 All of my projects are available at [https://github.com/Skoobary](https://github.com/Skoobary)
+- I was very inactif on gifthub the past months, but I'm back with better projects
 
 <!---
 Skoobary/Skoobary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
